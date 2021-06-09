@@ -5,9 +5,9 @@ Implementation of Layer Wise Relevance Propagation (LRP) and Channel Nullficatio
 For more details and evaluation results, please check out our original [paper](https://ieeexplore.ieee.org/document/8915770 "Title").
 ## Features:
 
-- LRP: Compute the relevance score of a pre-trainined model under CSI device free indoor localization.
-- nullification: Compute the Channel Nullfication with relevance score as the reference
-- visualization: plot CSI samples with relevance score
+- LRP.py: Compute the relevance score of a pre-trainined model under CSI device free indoor localization.
+- nullification.py: Compute the Channel Nullfication with relevance score as the reference
+- visualization.py: plot CSI samples with relevance score
 - models: Pre-trainined model (DNN, CNN)
 - CSI: Precollected CSI testing set
 
