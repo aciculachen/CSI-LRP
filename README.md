@@ -5,7 +5,7 @@ Implementation of Layer Wise Relevance Propagation (LRP) and Channel Nullficatio
 For more details and evaluation results, please check out our original [paper](https://ieeexplore.ieee.org/document/8915770 "Title").
 
 ## Concept:
-<img src="https://github.com/aciculachen/CSI-LRP/blob/master/LRP.png" width="600">
+<img src="https://github.com/aciculachen/CSI-LRP/blob/master/LRP.png">
 
 
 ## Features:
